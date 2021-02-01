@@ -1,1 +1,7 @@
 # learn_management_system
+
+E-learning 2.0
+Nous sommes passés en une dizaine d’années de dispositifs centrés sur le formateur, de modules largement issus de la formation présentielle et simplement transposées à la FAD (Formation à distance), à des dispositifs centrés sur l’apprenant, cette transformation étant rendue possible par la généralisation d’outils (ceux du Web 2.0 comptent pour beaucoup) qui modifient en profondeur le mode de communication des utilisateurs.
+Nous en sommes aujourd’hui à l’ère du collaboratif, où l’on pourrait dire sans vouloir théoriser sur le sujet que les services de partage, de social learning et des pratiques collaboratives  sont mis en valeur et proposés à l’apprenant et à l’enseignant/formateur. Chaque membre d’une communauté d’apprenants enrichit le contenu, partage ses pratiques et ses difficultés.
+Digital School Sup sera un LMS c'est-à-dire Learning Management System ou plate-forme logicielle de gestion des parcours de formation. Gestion de la formation, des résultats des apprenants, diffusion de contenus, ordonnancement de modules de formation, gestion des évaluations. Un gestionnaire de contenus d’apprentissage sera aussi ajouté au LMS (on parlera de LCMS pour Learning Content Management System).
+Digital School Sup pourra aussi dans une certaine mesure utiliser un système de blended learning, où formations en face à face et à distance sont proposées conjointement. 
